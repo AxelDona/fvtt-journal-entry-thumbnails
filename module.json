@@ -1,0 +1,44 @@
+{
+  "id": "journal-entry-thumbnails",
+  "title": "Journal Entry Thumbnails",
+  "description": "Allows a GM to assign any thumbnail image to journal entries.",
+  "version": "1.2.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "14"
+  },
+  "authors": [
+    {
+      "name": "Axel Dona",
+      "url": "https://github.com/AxelDona"
+    }
+  ],
+  "scripts": [
+    "scripts/journal-thumbnails.js"
+  ],
+  "styles": [
+    "styles/journal-thumbnails.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    },
+    {
+      "lang": "fr",
+      "name": "Français",
+      "path": "lang/fr.json"
+    },
+    {
+      "lang": "es",
+      "name": "Español",
+      "path": "lang/es.json"
+    },
+    {
+      "lang": "de",
+      "name": "Deutsch",
+      "path": "lang/de.json"
+    }
+  ]
+}

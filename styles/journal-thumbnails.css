@@ -1,0 +1,14 @@
+li.directory-item.journalentry .entry-name{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+li.directory-item.journalentry .entry-name .journal-thumbnail{
+    width: 30px;
+    height: 30px;
+    background-size: cover;
+    background-position: center;
+    margin-right: 6px;
+    display: inline-block;
+}
